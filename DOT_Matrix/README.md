@@ -21,11 +21,12 @@ sub Chipset : LD1071
 
 # What is Dot Matrix?
 - 도트매트릭스 LED의 형태에서 5x7형은 주로 글씨를 표시하기 위한 용도로
-주로 사용되며 8x8, 16x16은 주로 이미지를 표시하기 위해 주로 사용된다.
-다른 Dot Matrix와의 차별점은 3Color이다.
+주로 사용됨
+- 8x8, 16x16은 주로 이미지를 표시하기 위해 주로 사용됨
+- 다른 Dot Matrix와의 차별점은 3Color이다.
 
 # What is LD1070?
-- LD1071은 14비트 PWM을 내장하고 있는 16채널 LED 드라이버로 
+- LD1071은 14비트 PWM을 내장하고 있는 16채널 LED 드라이버
 - 3Color Dot Matrix 구동 IC로 널리 사용
 
 # Import Datasheet
