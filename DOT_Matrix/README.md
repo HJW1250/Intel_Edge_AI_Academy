@@ -49,7 +49,8 @@ sub Chipset : LD1071
 
 비트반전코드 함수를 만들어 보완.
 
-```uint16_t reverseBits(uint16_t num)
+```
+uint16_t reverseBits(uint16_t num)
 {
    int NO_OF_BITS = sizeof(num) * 8;
    uint16_t reverse_num = 0;
