@@ -59,7 +59,8 @@ sub Chipset : LD1071
             reverse_num |= 1 << ((NO_OF_BITS - 1) - i);
     }
     return reverse_num;
-}```
+}
+```
 
 # Result
 ![image](https://github.com/HJW1250/Intel_Edge_AI_Academy/assets/114561883/49ef2f57-5bd4-43cb-90f9-a8b81a9a44ce)
