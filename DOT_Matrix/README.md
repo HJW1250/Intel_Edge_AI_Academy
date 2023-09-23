@@ -44,7 +44,7 @@ sub Chipset : LD1071
 
 ![image](https://github.com/HJW1250/Intel_Edge_AI_Academy/assets/114561883/b7b6cbfc-0cd9-457e-b448-26eda3ec6a54)
 
-# Issue
+# Improvement
 모두 개발하고 보니 Dot Matrix가 좌우 반전이 되어서 출력되었다.
 
 비트반전코드 함수를 만들어 보완.
